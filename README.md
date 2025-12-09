@@ -128,18 +128,7 @@ printf formatting
 Console-based UI
 
 ### Sample Output Screenshot
-
-(Include your screenshot here after running your program)
-
-[ D:\2.2 Projects\OOP Projects\Student Report Card System\Java Output.jpeg ]
-
-
-### 📂 Repository Structure
-📦 Student-Scoresheet
- ┣ 📜 StudentScoresheet.java      -> Main source code
- ┣ 📸 output-screenshot.png        -> Screenshot of final output
- ┣ 🎬 demo-video.mp4               -> Video explanation (or link)
- ┗ 📄 README.md                    -> Project documentation
+![Java Program Output](./Java%20Output.jpeg)
 
 ### Contributors
 
