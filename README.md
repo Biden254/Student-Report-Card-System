@@ -1,5 +1,8 @@
 ### 🏫 STUDENT SCORESHEET – Java Console Application
 A school performance report generator built using core Java concepts
+
+Kepha Mirera Repo link since we submitted accidentally:
+https://github.com/mirerakepha/Student-Scoresheet
 ## Project Overview
 
 This project is a Java console application that collects full student performance data and generates a formatted scoresheet similar to the sample provided in the assignment instructions.
